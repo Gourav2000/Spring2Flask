@@ -55,6 +55,9 @@ To run the Spring to Flask Web App Converter, follow these steps:
 2. Click on the "upload" button to start the conversion process.
 3. Once the conversion is complete, Flask application will be automaticaly downloaded as a ZIP file once the timer ends.
 
+## Structure
+![Alt Text](hld.png)
+
 ## Working
 <img src="demo.gif" alt="Alt text" width="1000"  height="500"/>
 

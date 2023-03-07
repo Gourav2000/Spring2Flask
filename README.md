@@ -59,7 +59,7 @@ To run the Spring to Flask Web App Converter, follow these steps:
 <img src="demo.gif" alt="Alt text" width="1000"  height="500"/>
 
 ## Screenshots
-![Alt Text](https://github.com/rishabh27sharma/AI-Based-Code-Converter/blob/master/UI.png)
+![Alt Text](UI.png)
 
 ## License
 

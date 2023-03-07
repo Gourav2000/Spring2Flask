@@ -56,7 +56,7 @@ To run the Spring to Flask Web App Converter, follow these steps:
 3. Once the conversion is complete, Flask application will be automaticaly downloaded as a ZIP file once the timer ends.
 
 ## Working
-![Alt Text](https://github.com/rishabh27sharma/AI-Based-Code-Converter/blob/master/demo.gif)
+![Alt Text](https://github.com/Gourav2000/Spring2Flask/blob/master/demo.gif)
 
 ## Screenshots
 ![Alt Text](https://github.com/rishabh27sharma/AI-Based-Code-Converter/blob/master/UI.png)

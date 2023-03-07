@@ -11,7 +11,7 @@ cors = CORS(app)
 
 uploaded_file = ''
 
-openai.api_key = 'your api key here'
+openai.api_key = 'your api key'
 
 @app.route("/")
 def data():

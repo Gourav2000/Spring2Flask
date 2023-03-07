@@ -11,13 +11,13 @@ function App() {
       
       <div className="typography">
       <div>
-      <p>Persistent’s Iconic Annual Hackathon -</p>
+      <p>Spring to flask Converter -</p>
       </div>
         <div>
         <Typewriter className="semicolons"
             onInit={(typewriter) => {
               typewriter
-                .typeString("Semicolons 2023")
+                .typeString("2023")
                 .pauseFor(1000)
                 .start();
             }}
@@ -26,7 +26,7 @@ function App() {
       </div>
       
 
-      {/* <Typewriter options={{autostart:true,loop:true,delay:40}}  name="Persistent’s Iconic Annual Hackathon – Semicolons! "/> */}
+      {/* <Typewriter options={{autostart:true,loop:true,delay:40}}  name="AI Based code converter! "/> */}
       <Cards />
     </div>
   );
